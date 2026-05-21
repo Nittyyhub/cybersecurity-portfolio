@@ -1,10 +1,42 @@
 # Networking Labs
-This folder contains my networking and network security practice labs completed as part of my cybersecurity studies
+This folder contains my networking and network security notes completed as part of my cybersecurity studies
 Topics covered include:
-TCP/IP Model
-DNS
+### Network Types
+LAN (Local Area Network)
+WAN (Wide Area Network)
+WLAN (Wireless Local Area Network)
+### Network Devices
+Routers
+Switches
 Firewalls
-Network protocols
-Packet flow
-Network security concepts
-These exercises help me understand how systems communicate and how networks are protected from cyber threats
+Access Points
+Modems
+### IP Addressing
+IPv4 addresses
+Public and Private IP addresses
+MAC addresses
+subnet basics
+### Network Protocols
+TCP/IP
+UDP
+HTTP
+HTTPS
+DNS
+DHCP
+SSH
+### Network Security Concepts
+VPNs
+Firewalls
+Pcaket filtering
+Secure communication
+Network MOnitoring
+### Operating Systems and Networking
+Linux networking basics
+Command-line networking tools
+Understanding how devices communicates across networks
+### Skills Practiced
+Identifying network components
+Understanding how data travels trough networks
+Learning basic troubleshooting concepts
+Studying cybersecurity threats related to networking
+Understanding secure network communication
