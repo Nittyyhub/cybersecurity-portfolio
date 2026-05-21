@@ -2,7 +2,7 @@
 this folder contains my linux practice exercise, hands-on labss and command-line activities completed during my cybersecurity learning journey.
 ## Skills Practiced 
 ### Linux Navigation & File Management
-Navigate directories using ~cd~
+Navigate directories using ~'cd'
 Displayed current directory with 'pwd'
 Listed files and hidden files using 'ls' and 'ls -a'
 Viewed file content using 'cat', 'head' and 'tail'
